@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Vercel Trick By <a href="http://maincamp.epizy.com/">SEYIFUNNY</a>
+          Welcome to Vercel Trick By <a href="https://miniechatz.com/">SEYIFUNNY</a>
         </h1>
 
         <p className={styles.description}>
@@ -23,18 +23,18 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="http://maincamp.epizy.com/" className={styles.card}>
+          <a href="https://miniechatz.com/" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Here you can find how to earn money from Adsterra .</p>
           </a>
 
-          <a href="http://maincamp.epizy.com/" className={styles.card}>
+          <a href="https://miniechatz.com/" className={styles.card}>
             <h2>Master In AdSense Approval &rarr;</h2>
             <p>Here you can find the of how you become master in AdSense approval!</p>
           </a>
 
           <a
-            href="http://maincamp.epizy.com/"
+            href="https://miniechatz.com/"
             className={styles.card}
           >
             <h2>Blogging &rarr;</h2>
