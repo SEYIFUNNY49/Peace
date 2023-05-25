@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://hzr0dm28m17c.com/mptg156vib?key=d622ce6b905ae1d51258604b1b2497eb/`
+					`https://miniechatz.com/` + encodeURI(path as string)
 				}`,
 			},
 		};
